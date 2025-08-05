@@ -2,21 +2,21 @@
 
 # Mark A. Sanchez
 
-OBJECTIVE
+## OBJECTIVE
 
 Business Intelligence and Analytics professional with 20+ years of experience transforming business requirements into data-driven solutions. Skilled in data analytics, stakeholder collaboration, and agile product development. Seeking to contribute strategic insights, technical leadership, and continuous improvement to a dynamic healthcare analytics team.
 
-SKILLS
+## SKILLS
 
-** • Asset Management: Experienced creating data-driven asset management strategies for utility infrastructure, optimizing lifecycle performance through risk and cost-based decision-making.
-** • Data Analysis: Proficient in data modeling, research principles, and data dissemination to extract insights and support decision-making.
-** • Visualization and Reporting: Proficient in developing logical models, visualizations, and storytelling with data. 
-** • BI Tooling: Power BI, Tableau, SQL, SPSS, R Studio.
+** • Asset Management:** Experienced creating data-driven asset management strategies for utility infrastructure, optimizing lifecycle performance through risk and cost-based decision-making.
+** • Data Analysis:** Proficient in data modeling, research principles, and data dissemination to extract insights and support decision-making.
+** • Visualization and Reporting:** Proficient in developing logical models, visualizations, and storytelling with data. 
+** • BI Tooling:** Power BI, Tableau, SQL, SPSS, R Studio.
 ** • Data Strategy: Dimensional modeling, predictive analytics, KPI design.
 ** • Training & Documentation: BI user training, technical documentation, workflow analysis.
 ** • Collaboration: Drives collaborative success by building strong stakeholder relationships, empowering team growth, and integrating efforts across organizational silos.
 
-WORK EXPERIENCE
+## WORK EXPERIENCE
 
 PORTLAND PUBLIC SCHOOLS								NOVEMBER 2020-June 2025
 DATA ANALYST II										REMOTE
@@ -67,17 +67,17 @@ GIS Technician									Albuquerque, NM
 
 • Conducted data governance, demographic analysis, and spatial analysis for redistricting plans and election districts.
 
-EDUCATION
+## EDUCATION
 
-Portland Community College/Portland State University				September 2017-June 2020
-Bachelor of Science - Mathematics; GPA: 3.45					Portland, OR	
+**Portland State University**				September 2017-June 2020
+**Bachelor of Science - Mathematics**; GPA: 3.45					Portland, OR	
 Ronald E. McNair Scholar; BUILD EXITO Scholar; LSAMP Scholar, Carl Saltveit Scholar
 Ronald E. McNair Scholar
 
-Portland Community College								September 2015-December 2016
-Associate of Science; GPA: 3.87							Portland, OR	
+**Portland Community College**								September 2015-December 2016
+**Associate of Science; GPA: 3.87**							Portland, OR	
 
-VOLUNTEERING
+## VOLUNTEERING
 Evergreen East Mountain Bike Chapter – Crew Lead						June 2024 - Present
 Portland State University President’s Student Advisory Council				September 2018 - Present
 Louis Stokes Alliance for Minority Participation Mentoring & Tutoring Team			 January 2018 – Present
