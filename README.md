@@ -22,7 +22,7 @@ Business Intelligence and Analytics professional with 20+ years of experience tr
 
 **DATA ANALYST II**
 
-NOVEMBER 2020-June 2025
+November 2020-June 2025
 
 • Translated complex operational data into actionable insights through Power BI dashboards and predictive modeling.
 
@@ -34,43 +34,64 @@ NOVEMBER 2020-June 2025
 
 • Spearheaded process improvements and built documentation resources to support internal training.
 
-OREGON HEALTH SCIENCES UNIVERSITY							AUGUST 2018-June 2019
-STUDENT EMPLOYEE – MARRIOTT LAB							PORTLAND, OR
+**OREGON HEALTH SCIENCES UNIVERSITY**
 
-• Developed and broadcast BI reporting materials for internal stakeholders using SPSS, R Studio, and Excel. 
+**STUDENT EMPLOYEE – MARRIOTT LAB**
+
+August 2018-June 2019
+
+• Developed and broadcast BI reporting materials for internal stakeholders using SPSS, R Studio, and Excel.
+
 • Performed statistical analyses to support business intelligence efforts across healthcare operations.
 
+**MCMILLEN**
 
+**GIS ANALYST**
 
-MCMILLEN JACOBS ASSOCIATES								OCTOBER 2013-March 2015
-GIS ANALYST										PORTLAND, OR/REMOTE HYBRID
+October 2013-March 2015
 
 • Led cross-functional BI and data integration projects across GIS and engineering domains.
 • Implemented automation to streamline data flows and increase reporting reliability.
 
 
-CIBER (CONTRACT WITH BONNEVILLE POWER ADMINISTRATION)				August 2008-March 2012
-CIVIL ENGINEERING TECHNICIAN								VANCOUVER, WA/REMOTE HYBRID
+**CIBER (CONTRACT WITH BONNEVILLE POWER ADMINISTRATION)**
+
+**CIVIL ENGINEERING TECHNICIAN**
+
+August 2008-March 2012
 
 • Delivered strategic insights under tight deadlines by coordinating data across SCADA, spatial analysis, and predictive infrastructure modeling.
+
 • Developed LiDAR data standards, ETL processes, and imagery capture/control network specifications, ensuring data quality.
+
 • Directed LiDAR projects through structured scheduling and resource management using MS Project, ensuring delivery within scope and timeline.
+
 • Demonstrated agility in adapting to changing project scopes and technical ambiguity – a hallmark of startup-like environments.
 
-STATE OF OREGON, GEOLOGY DEPARTMENT						October 2005-June 2008
-LiDAR Project Data Coordinator							Portland, OR
+**STATE OF OREGON, GEOLOGY DEPARTMENT**
+
+**LiDAR Project Data Coordinator**
+
+October 2005-June 2008
 
 • Led statewide LiDAR acquisition projects, defining standards, managing project life cycle, and ensuring data quality. • Developed databases, implemented online interactive maps, and conducted spatial analyses for GIS projects.
+
 • Conducted statewide collaboration of GIS data governance standards for the State of Oregon.
 
 
-VOLT (CONTRACT WITH PACIFICORP) 							May 2003-November 2004
-GIS Technician	    								Portland, OR
+**PacifiCorp**
+
+**GIS Technician**
+
+May 2003-November 2004
 
 • Executed spatial data analysis, geocoding, data model construction, SAFE FME data translation, CADD data integration, and map book production.
 
-RESEARCH & POLLING, INC.								February 2001-April 2003
-GIS Technician									Albuquerque, NM
+**RESEARCH & POLLING, INC.**
+
+**GIS Technician**
+
+February 2001-April 2003
 
 • Conducted data governance, demographic analysis, and spatial analysis for redistricting plans and election districts.
 
@@ -86,7 +107,10 @@ Ronald E. McNair Scholar
 
 ## VOLUNTEERING
 Evergreen East Mountain Bike Chapter – Crew Lead						June 2024 - Present
+
 Portland State University President’s Student Advisory Council				September 2018 - Present
+
 Louis Stokes Alliance for Minority Participation Mentoring & Tutoring Team			 January 2018 – Present
+
 Louis Stokes Alliance for Minority Participation Leadership Council				September 2017 - Present
 
