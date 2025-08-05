@@ -110,6 +110,8 @@ _____________________________________
 
 ## EDUCATION
 
+_____________________________________
+
 **Portland State University**
 
 September 2017-June 2020
@@ -125,6 +127,8 @@ BUILD EXITO Scholar
 LSAMP Scholar
 
 Carl Saltveit Scholar
+
+_____________________________________
 
 **Portland Community College**
 
