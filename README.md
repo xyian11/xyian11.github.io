@@ -1,4 +1,7 @@
 # xyian11.github.io
+
+# Mark A. Sanchez
+
 OBJECTIVE
 
 Business Intelligence and Analytics professional with 20+ years of experience transforming business requirements into data-driven solutions. Skilled in data analytics, stakeholder collaboration, and agile product development. Seeking to contribute strategic insights, technical leadership, and continuous improvement to a dynamic healthcare analytics team.
