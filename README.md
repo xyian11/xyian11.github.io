@@ -22,9 +22,13 @@ PORTLAND PUBLIC SCHOOLS								NOVEMBER 2020-June 2025
 DATA ANALYST II										REMOTE
 
 • Translated complex operational data into actionable insights through Power BI dashboards and predictive modeling.
+
 • Partnered with stakeholders to gather BI requirements and develop technical specifications for reporting pipelines.
+
 • Implemented robust data governance practices by developing standards, policies, and procedures in coordination with stakeholders and data stewards.
+
 • Built and streamlined reporting pipelines using SQL, GIS and Power BI to enhance efficiency and decision-making accuracy.
+
 • Spearheaded process improvements and built documentation resources to support internal training.
 
 OREGON HEALTH SCIENCES UNIVERSITY							AUGUST 2018-June 2019
