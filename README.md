@@ -34,6 +34,9 @@ November 2020-June 2025
 
 • Spearheaded process improvements and built documentation resources to support internal training.
 
+_____________________________________
+
+
 **OREGON HEALTH SCIENCES UNIVERSITY**
 
 **STUDENT EMPLOYEE – MARRIOTT LAB**
@@ -53,6 +56,7 @@ October 2013-March 2015
 • Led cross-functional BI and data integration projects across GIS and engineering domains.
 • Implemented automation to streamline data flows and increase reporting reliability.
 
+_____________________________________
 
 **CIBER (CONTRACT WITH BONNEVILLE POWER ADMINISTRATION)**
 
@@ -68,6 +72,8 @@ August 2008-March 2012
 
 • Demonstrated agility in adapting to changing project scopes and technical ambiguity – a hallmark of startup-like environments.
 
+_____________________________________
+
 **STATE OF OREGON, GEOLOGY DEPARTMENT**
 
 **LiDAR Project Data Coordinator**
@@ -78,6 +84,7 @@ October 2005-June 2008
 
 • Conducted statewide collaboration of GIS data governance standards for the State of Oregon.
 
+_____________________________________
 
 **PacifiCorp**
 
@@ -86,6 +93,8 @@ October 2005-June 2008
 May 2003-November 2004
 
 • Executed spatial data analysis, geocoding, data model construction, SAFE FME data translation, CADD data integration, and map book production.
+
+_____________________________________
 
 **RESEARCH & POLLING, INC.**
 
@@ -97,15 +106,32 @@ February 2001-April 2003
 
 ## EDUCATION
 
-**Portland State University**				September 2017-June 2020
-**Bachelor of Science - Mathematics**; GPA: 3.45					Portland, OR	
-Ronald E. McNair Scholar; BUILD EXITO Scholar; LSAMP Scholar, Carl Saltveit Scholar
+**Portland State University**
+
+September 2017-June 2020
+
+**Bachelor of Science - Mathematics**
+
+GPA: 3.45
+
 Ronald E. McNair Scholar
 
-**Portland Community College**								September 2015-December 2016
-**Associate of Science; GPA: 3.87**							Portland, OR	
+BUILD EXITO Scholar
+
+LSAMP Scholar
+
+Carl Saltveit Scholar
+
+**Portland Community College**
+
+September 2015-December 2016
+
+**Associate of Science**
+
+GPA: 3.87
 
 ## VOLUNTEERING
+
 Evergreen East Mountain Bike Chapter – Crew Lead						June 2024 - Present
 
 Portland State University President’s Student Advisory Council				September 2018 - Present
