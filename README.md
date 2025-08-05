@@ -18,8 +18,11 @@ Business Intelligence and Analytics professional with 20+ years of experience tr
 
 ## WORK EXPERIENCE
 
-PORTLAND PUBLIC SCHOOLS								NOVEMBER 2020-June 2025
-DATA ANALYST II										REMOTE
+**PORTLAND PUBLIC SCHOOLS**
+
+**DATA ANALYST II**
+
+NOVEMBER 2020-June 2025
 
 • Translated complex operational data into actionable insights through Power BI dashboards and predictive modeling.
 
