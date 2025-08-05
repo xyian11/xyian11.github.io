@@ -47,6 +47,8 @@ August 2018-June 2019
 
 • Performed statistical analyses to support business intelligence efforts across healthcare operations.
 
+_____________________________________
+
 **MCMILLEN**
 
 **GIS ANALYST**
@@ -103,6 +105,8 @@ _____________________________________
 February 2001-April 2003
 
 • Conducted data governance, demographic analysis, and spatial analysis for redistricting plans and election districts.
+
+_____________________________________
 
 ## EDUCATION
 
