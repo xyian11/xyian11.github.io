@@ -10,7 +10,7 @@ Business Intelligence and Analytics professional with 20+ years of experience tr
 
 ### • Asset Management: Experienced creating data-driven asset management strategies for utility infrastructure, optimizing lifecycle performance through risk and cost-based decision-making.
 ### • Data Analysis: Proficient in data modeling, research principles, and data dissemination to extract insights and support decision-making.
-### • Visualization and Reporting:** Proficient in developing logical models, visualizations, and storytelling with data. 
+### • Visualization and Reporting:### Proficient in developing logical models, visualizations, and storytelling with data. 
 ### • BI Tooling: Power BI, Tableau, SQL, SPSS, R Studio.
 ### • Data Strategy: Dimensional modeling, predictive analytics, KPI design.
 ### • Training & Documentation: BI user training, technical documentation, workflow analysis.
